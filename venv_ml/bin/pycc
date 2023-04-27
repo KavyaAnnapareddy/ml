@@ -1,0 +1,3 @@
+#!/Users/kavyaannapareddy/Desktop/jobhunt/ml/venv_ml/bin/python
+from numba.pycc import main
+main()
